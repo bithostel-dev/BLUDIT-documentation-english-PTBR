@@ -1,7 +1,7 @@
-# Introduction
+# Introdução
 <!-- position: 1 -->
 
-Bludit is a web application to build your own **website** or **blog** in seconds; it's completely **free and open source**. Bludit is a Flat-File CMS, which (in this case) means that Bludit uses files in the **JSON** format to store the content. You don't need to install or configure a database; you only need a web server with PHP support.
+Bludit é uma aplicação web para criar seu próprio website ou blog em segundos; é completamente livre e de código aberto. Bludit é um simples Arquivo CMS, que (neste caso) significa que Bludit usa arquivos no formato JSON formato para armazenar o conteúdo. Você não precisa instalar ou configurar um banco de dados; você só precisa de um servidor web com suporte PHP.
 
 <h2 id="support">Support</h2>
 Ask questions, get support, and discuss Bludit.
