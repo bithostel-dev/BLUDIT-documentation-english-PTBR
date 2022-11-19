@@ -1,9 +1,9 @@
 # Bludit PRO
 <!-- position: 100 -->
 ## O que é Bludit PRO?
-Bludit PRO é Bludit com extra notável plugins. Bludit PRO não precisa ser comprado, nem requer qualquer licenciamento especial para usá-lo.
+Bludit PRO conta com notáveis plugins extra. Bludit PRO não precisa ser comprado, nem requer qualquer licenciamento especial para usá-lo.
 
-Bludit PRO está disponível para os Apoiadores e Patrocinadores no Patreon. As doações e o apoio da comunidade são o que ajuda o projecto a estadia e em execução. Suporte Bludit via Patreon hoje, e desfrutar de todas as funcionalidades do Bludit além de mais com Bludit PRO!
+Bludit PRO está disponível para os Apoiadores e Patrocinadores no Patreon. As doações e o apoio da comunidade são o que ajuda o projecto a estadia e em execução. Dê suporte ao Bludit via Patreon hoje, e desfrute de todas as funcionalidades do Bludit e ainda mais além com Bludit PRO!
 
 - Se tornar um [Apoiador](https://www.patreon.com/bePatron?c=921115&rid=2458859)
 - Tornar-se um [Patrocinador](https://www.patreon.com/bePatron?c=921115&rid=2458860)
