@@ -1,6 +1,19 @@
 # Bludit PRO
 <!-- position: 100 -->
+## O que é Bludit PRO?
+Bludit PRO é Bludit com extra notável plugins. Bludit PRO não precisa ser comprado, nem requer qualquer licenciamento especial para usá-lo.
 
+Bludit PRO está disponível para os Apoiadores e Patrocinadores no Patreon. As doações e o apoio da comunidade são o que ajuda o projecto a estadia e em execução. Suporte Bludit via Patreon hoje, e desfrutar de todas as funcionalidades do Bludit além de mais com Bludit PRO!
+
+- Se tornar um [Apoiador](https://www.patreon.com/bePatron?c=921115&rid=2458859)
+- Tornar-se um [Patrocinador](https://www.patreon.com/bePatron?c=921115&rid=2458860)
+- [Patreon](https://www.patreon.com/bludit)
+
+## Plugins incluídos no Bludit PRO
+- [Timemachine X](https://docs.bludit.com/en/bludit-pro/timemachine-x)
+-  Estatísticas
+
+ORIGINAL:
 ## What is Bludit PRO?
 Bludit PRO is Bludit with extra remarkable plugins. Bludit PRO doesn't have to be purchased, nor does it require any special licensing to use it.
 
